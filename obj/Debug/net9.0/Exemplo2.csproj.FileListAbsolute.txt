@@ -12,3 +12,4 @@ C:\Users\FIC\Desktop\Ingryd\EstruturaRepeticao\Exemplo2\obj\Debug\net9.0\refint\
 C:\Users\FIC\Desktop\Ingryd\EstruturaRepeticao\Exemplo2\obj\Debug\net9.0\Exemplo2.pdb
 C:\Users\FIC\Desktop\Ingryd\EstruturaRepeticao\Exemplo2\obj\Debug\net9.0\Exemplo2.genruntimeconfig.cache
 C:\Users\FIC\Desktop\Ingryd\EstruturaRepeticao\Exemplo2\obj\Debug\net9.0\ref\Exemplo2.dll
+C:\Users\FIC\Desktop\Ingryd\EstruturaRepeticao\Exemplo2\obj\Debug\net9.0\Exemplo2.sourcelink.json
